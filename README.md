@@ -3,6 +3,7 @@
 > **Desafio de Projeto DIO:** *Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM*  
 > **Autor:** William Silva Assis  
 > **Ferramentas Utilizadas:** Google NotebookLM, n8n, GitHub, Markdown
+> https://notebook.google.com/notebook/3aa82d1a-b6e0-4dc8-acbb-87386c497419?authuser=1
 
 ---
 
